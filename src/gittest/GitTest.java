@@ -16,8 +16,6 @@ public class GitTest {
      */
     public static void main(String[] args) {
         System.out.println("Kante to pull remalia");
-        for (int i = 0; i <10; i++) {
-            System.out.println(5+i);
-        }
+        System.out.println("O kodikas sou einai ellipis. \nPerase apo to logistirio.");
     }
 }
