@@ -19,6 +19,12 @@ public class GitTest {
    
     
     
-    }
     
-}
+
+        System.out.println("Kante to pull remalia");
+
+        System.out.println("---Μήνυμα ελήφθη---theo");
+    
+    
+
+    }
