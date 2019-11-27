@@ -18,6 +18,6 @@ public class GitTest {
     public static void main(String[] args) {
         System.out.println("Kante to pull remalia");
         System.out.println("O kodikas sou einai ellipis. \nPerase apo to logistirio.");
-             
+             System.out.println("last test");
     }
 }
