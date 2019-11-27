@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 /*
  * To change this license header, choose License Headers in Project Properties.
  * To change this template file, choose Tools | Templates
@@ -29,26 +28,11 @@ public class GitTest {
 
     }
 }
-=======
-
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
-package gittest;
-
-/**
- *
- * @author mario
- */
-public class GitTest {
-
-    /**
-     * @param args the command line arguments
-     */
-    public static void main(String[] args) {
-        System.out.println("Kante to pull remalia");
+        for (int i = 0; i <10; i++) {
+            System.out.println(5+i);
+        }
+        System.out.println("mpla mpla "); 
+       
         System.out.println("O kodikas sou einai ellipis. \nPerase apo to logistirio.");
              System.out.println("last test");
     
@@ -60,4 +44,3 @@ public class GitTest {
     
     }
 }
->>>>>>> origin/master
